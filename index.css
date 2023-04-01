@@ -1,0 +1,114 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.box1{
+    width: 100px;
+    height: 100px;
+    color: aliceblue;
+    display: flex;
+    border: 2px solid blue;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}
+.container{
+    display: flex;
+    align-items: center;
+   justify-content: space-between;
+    margin: 20px;
+}
+.box3{
+    display: flex;
+    margin: 20px;
+  background-color: rgb(15, 15, 16);
+}
+.a1{
+    
+    width: 200px;
+    height: 60px;
+    background-color: rgb(43, 18, 172);
+    
+}
+.a2{
+   
+    width: 200px;
+    height: 60px;
+    background-color: rgb(24, 186, 38);
+}
+.a3{
+   
+    width: 200px;
+    height: 60px;
+    background-color: rgb(201, 166, 39);
+}
+.a4{
+    
+    width: 200px;
+    height: 60px;
+    background-color: rgb(127, 133, 255);
+}
+.a5{
+  
+    width: 200px;
+    height: 60px;
+    background-color: rgb(152, 20, 20);
+}
+.a6{
+   
+    width: 200px;
+    height: 60px;
+    background-color: rgb(164, 23, 131);
+}
+
+.b1{
+    margin: 2px;
+}
+.pastgi{
+   margin: 20px;
+}
+.s1{
+    width: 200px;
+    height: 80px;
+    background-color: brown;
+}
+.s2{
+    width: 200px;
+    height: 80px;
+    background-color: brown;
+}
+.s3{ 
+    width: 200px;
+    height: 80px;
+    background-color: brown;
+}
+.s4{
+    width: 200px;
+    height: 80px;
+    background-color: brown;
+}
+.s5{
+    width: 200px;
+    height: 80px;
+    background-color: brown;
+}
+.d1{
+    margin: 5px;
+}
+.rasm{
+    background-image: url(/week4_1100.jpg);
+}
+
+body{
+    background-color: rgb(9, 19, 28);
+}
+h2{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
